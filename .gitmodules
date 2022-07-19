@@ -1,3 +1,6 @@
 [submodule "productivity"]
 	path = productivity
 	url = git@github.com:pietow/productivity.git
+[submodule "docker"]
+	path = docker
+	url = git@github.com:pietow/docker.git
