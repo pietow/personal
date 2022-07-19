@@ -1,0 +1,3 @@
+[submodule "productivity"]
+	path = productivity
+	url = git@github.com:pietow/productivity.git
